@@ -82,7 +82,7 @@ git clone https://github.com/LasyaPriya27/Gen-Z-Hybrid-Slang-Text-Generator.git
 
 3. Open and run the notebook:
 
-[Google Colab Link](https://colab.research.google.com/drive/1J7nwQ62pS-yoe9QakaXzmzbv3ss3aaIg)
+[Google Colab Link](https://colab.research.google.com/drive/1xLWDEr6tdmKr85mHPENyjPcc3yhfL8vV?usp=sharing)
 
 ## Results  
 Generated outputs include fluent and slang-relevant sentence completions. Hybrid results demonstrate better alignment with informal speech and cultural tone.
